@@ -1,3 +1,7 @@
 GitHub bor
 pull sila
+<<<<<<< HEAD
 hjcddsidj
+=======
+gsyugssod
+>>>>>>> 05b6007cdf8074d63b90fbd38914df327f86cbd9

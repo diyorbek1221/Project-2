@@ -1,1 +1,1 @@
-# Mening ikkinchi loyiham
+# mening ikkirnchi loyuiiham
